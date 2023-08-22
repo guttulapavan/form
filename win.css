@@ -1,0 +1,27 @@
+label{
+			display: block;
+			padding: 9px;
+		}
+		body{
+			text-align: center;
+			background-color: skyblue;
+		}
+		form{
+			background-color: aquamarine;
+			margin-right: 500px;
+			margin-left: 500px;
+			margin-top: 50px;
+			margin-bottom: 50px;
+			border-radius: 10%;
+			padding-top:20px;
+		}
+		.btn{
+			padding: 20px;
+		}
+		input[type=submit]{
+			background-color:grey; 
+		}
+		input[type=submit]:hover{
+			background-color: darkgrey;
+			cursor: pointer;
+		}
